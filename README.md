@@ -1,5 +1,6 @@
 # Platform_JavaDev
 Overview of 12 week course in Career Readiness towards Java Developer role.
+Repo will mostly contain in-class exercises, and assignments after they are due.
 
 ### Week One
 ```
