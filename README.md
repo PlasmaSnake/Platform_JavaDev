@@ -9,6 +9,9 @@ Repo will mostly contain in-class exercises, and assignments after they are due.
 3. Shift-Left
 4. Knowledge Transition/Requirement Analysis
 5. Test Driven Development
+
+In-class Exercise:
+Business Analyst team/Subject Matter Expert simulation sessions
 ```
 ### Week Two
 ```
