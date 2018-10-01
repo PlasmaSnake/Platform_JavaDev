@@ -16,5 +16,8 @@ Business Analyst team/Subject Matter Expert simulation sessions
 ### Week Two
 ```
 1. Agile Scrum
-2. Jira Tools
+2. Jira Tools rundown
+  2a. Scrum method
+  2b. Kanban method (not tested)
+3. Scrum Meeting (graded)
 ```
