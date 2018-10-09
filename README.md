@@ -1,6 +1,7 @@
 # Platform_JavaDev
 Overview of 12 week course in Career Readiness towards Java Developer role.
 Repo will mostly contain in-class exercises, and assignments after they are due.
+Every odd week will also have a 2 hour Career Readiness lecture for two days.
 
 ### Week One
 ```
@@ -20,4 +21,8 @@ Business Analyst team/Subject Matter Expert simulation sessions
   2a. Scrum method
   2b. Kanban method (not tested)
 3. Scrum Meeting (graded)
+```
+### Week Three
+```
+1. Introdction to SQL
 ```
