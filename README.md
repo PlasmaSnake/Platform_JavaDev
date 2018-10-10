@@ -25,4 +25,5 @@ Business Analyst team/Subject Matter Expert simulation sessions
 ### Week Three
 ```
 1. Introdction to SQL
+2. SQL - CRUD
 ```
