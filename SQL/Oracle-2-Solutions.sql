@@ -32,23 +32,23 @@
 --);
 
 ----P5
-insert into course_info values (343, 'Java Programming', 'Basics of Java', date '2012-12-12');
-insert into course_info values (167, 'C Programming', 'Basics of C', date '2011-11-11');
-insert into course_info values (347, 'RDBMS', 'Basics of RDBMS', '');
-insert into course_info values (106, 'Oracle', 'Oracle Sql', date '2011-03-11');
-
-update course_info
-set course_name = 'MYSQL', course_description = 'MYSQL'
-where course_code = 106;
-
-delete from course_info where course_name = 'RDBMS';
-
---P6
-
-insert into course_info values (106, 'Oracle', 'Oracle PK Sql', date '2011-03-11');
-insert into course_info values (302, 'Oracle', 'Oracle Architecture', date '2011-04-11');
-insert into course_info values (231, 'Core Java', 'Java IO', date '2011-06-11');
-
-select * from course_info where course_name = 'Core Java';
-select * from course_info where course_name = 'Core Java' AND course_code = 343;
-select distinct course_name from course_info;
+--insert into course_info values (343, 'Java Programming', 'Basics of Java', date '2012-12-12');
+--insert into course_info values (167, 'C Programming', 'Basics of C', date '2011-11-11');
+--insert into course_info values (347, 'RDBMS', 'Basics of RDBMS', '');
+--insert into course_info values (106, 'Oracle', 'Oracle Sql', date '2011-03-11');
+--
+--update course_info
+--set course_name = 'MYSQL', course_description = 'MYSQL'
+--where course_code = 106;
+--
+--delete from course_info where course_name = 'RDBMS';
+--
+----P6
+--
+--insert into course_info values (106, 'Oracle', 'Oracle PK Sql', date '2011-03-11');
+--insert into course_info values (302, 'Oracle', 'Oracle Architecture', date '2011-04-11');
+--insert into course_info values (231, 'Core Java', 'Java IO', date '2011-06-11');
+--
+--select * from course_info where course_name = 'Core Java';
+--select * from course_info where course_name = 'Core Java' AND course_code = 343;
+--select distinct course_name from course_info;
