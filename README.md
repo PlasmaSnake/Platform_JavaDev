@@ -13,6 +13,10 @@ Every odd week will also have a 2 hour Career Readiness lecture for two days.
 
 In-class Exercise:
 Business Analyst team/Subject Matter Expert simulation sessions
+
+Career Readiness:
+Presenting yourself as a brand
+Elevator pitch
 ```
 ### Week Two
 ```
@@ -26,4 +30,8 @@ Business Analyst team/Subject Matter Expert simulation sessions
 ```
 1. Introdction to SQL
 2. SQL - CRUD
+
+Career Readiness:
+Refining your elevator pitch
+Refining your technical resume
 ```
