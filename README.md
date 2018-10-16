@@ -28,10 +28,20 @@ Elevator pitch
 ```
 ### Week Three
 ```
-1. Introdction to SQL
+1. Introduction to SQL
 2. SQL - CRUD
+3. SQL - Aggregate functions
+4. SQL - JOINS
+5. SQL - Subqueries
 
 Career Readiness:
 Refining your elevator pitch
 Refining your technical resume
+```
+### Week Four
+```
+1. Introduction to Java
+2. Data types
+3. Logical (if) statements
+4. Arrays and 2D Arrays
 ```
