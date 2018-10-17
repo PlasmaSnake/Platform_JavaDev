@@ -15,8 +15,8 @@ In-class Exercise:
 Business Analyst team/Subject Matter Expert simulation sessions
 
 Career Readiness:
-Presenting yourself as a brand
-Elevator pitch
+  Presenting yourself as a brand
+  Elevator pitch
 ```
 ### Week Two
 ```
@@ -35,8 +35,8 @@ Elevator pitch
 5. SQL - Subqueries
 
 Career Readiness:
-Refining your elevator pitch
-Refining your technical resume
+  Refining your elevator pitch
+  Refining your technical resume
 ```
 ### Week Four
 ```
@@ -46,4 +46,7 @@ Refining your technical resume
   2b. Autocasting and downcasting (of primitive data types0
 3. Logical statements - if | switch/case statements
 4. Arrays and 2D Arrays
+Career Readiness:
+  Resume Refinement - Developing your headline/professional summary
+  LinkedIn account creation or refinement
 ```
