@@ -3,7 +3,7 @@ Overview of 12 week course in Career Readiness towards Java Developer role.
 Repo will mostly contain in-class exercises, and assignments after they are due.
 Every odd week will also have a 2 hour Career Readiness lecture for two days.
 
-SQL Interface: Oracle / SQL Developer
+SQL Interface: Oracle / SQL Developer ||
 Java IDE: Eclipse
 
 ### Week One
