@@ -42,8 +42,8 @@ Refining your technical resume
 ```
 1. Introduction to Java
 2. Data types
-2a. Autoboxing and unboxing
-2b. Autocasting and downcasting (of primitive data types0
+  2a. Autoboxing and unboxing
+  2b. Autocasting and downcasting (of primitive data types0
 3. Logical statements - if | switch/case statements
 4. Arrays and 2D Arrays
 ```
