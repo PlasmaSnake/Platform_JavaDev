@@ -14,8 +14,7 @@ public class SecondLargestNumber {
 		for (int i = 0; i < arr.length; i++) {
 			if (max == arr[i]) continue;
 			second = Math.max(second, arr[i]);
-		}
-		
+		}	
 		System.out.printf("The 2nd largest item in the array is %d", second);
 	}
 }
