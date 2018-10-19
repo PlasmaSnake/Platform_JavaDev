@@ -1,4 +1,4 @@
-package WeekOneBasics;
+package CodeChallenges;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -43,6 +43,7 @@ public class PrampCodeChallenge {
 		int[] answers = new int[arr.length];
 		int productOfAll = 1;
 		int indexOfZero = -1;
+		boolean moreZeroes = false;
 		if (arr.length <= 1) return new int[1];
 		
 		
@@ -50,8 +51,9 @@ public class PrampCodeChallenge {
 		for (int i = 0; i < arr.length; i++) {
 			if (arr[i] == 0) {
 				//2 zeroes found will make product = 0 and exits loop
-				if (indexOfZero > 0) {
-						productOfAll = 0;
+				if (indexOfZero >= 0) {
+						productOfAll = 0;			
+						moreZeroes = true;
 						break;
 				}
 				// otherwise it will just have indexOfZero equal to the product
@@ -61,8 +63,8 @@ public class PrampCodeChallenge {
 			productOfAll*=arr[i];
 		}
 		// only the index with zero will have a number (if there are no more than 1 zero)
-		if (indexOfZero > 0) {
-			if (productOfAll > 1) answers[indexOfZero] = productOfAll;
+		if (indexOfZero >= 0) {
+			if (!moreZeroes) answers[indexOfZero] = productOfAll;
 			return answers;
 		}
 		// if no zero(s), proceed with division and filling of array.
