@@ -52,9 +52,8 @@ Career Readiness:
 Career Readiness:
   Resume Refinement - Developing your headline/professional summary
   LinkedIn account creation or refinement
-
-Advanced Coding Problems: [Pramp Interview Question](PrampInterviewQuestion.txt) **If you want to attempt please open .txt file first. Optimal solution available in .java file.
 ```
+Adv. Coding Problem I: [Pramp Interview Question](PrampInterviewQuestion.txt) **If you want to attempt please open .txt file first. Optimal solution available in .java file.
 ### Week Five
 ```
 1. Object Oriented Programming I
