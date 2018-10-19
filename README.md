@@ -52,4 +52,12 @@ Career Readiness:
 Career Readiness:
   Resume Refinement - Developing your headline/professional summary
   LinkedIn account creation or refinement
+
+Advanced Coding Problems: [Pramp Interview Question](https://github.com/PlasmaSnake/Platform_JavaDev/tree/master/InClassExercises/src/WeekOneBasics/PrampInterviewQuestion.txt) **If you want to attempt please open .txt file first. Optimal solution available in .java file.
+```
+### Week Five
+```
+1. Object Oriented Programming I
+  1a. Four Pillars of OOP - Abstraction, Encapsulation, Inheritance, Polymorphism
+
 ```
