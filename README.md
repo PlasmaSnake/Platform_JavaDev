@@ -61,3 +61,4 @@ Adv. Coding Problem II: [Pancake Sort](InClassExercises/src/CodeChallenges/Panca
   1a. Four Pillars of OOP - Abstraction, Encapsulation, Inheritance, Polymorphism
 
 ```
+Adv. Coding Problem III: [BracketMatch](InClassExercises/src/CodeChallenges/BracketMatch.txt) **[Solutions](InClassExercises/src/CodeChallenges/BracketMatch.java)

@@ -28,5 +28,4 @@ public class Savings extends Account{
 				+ "Interest in the amount of %.2f added to the savings account.\n", amt, interest);
 		checkBalance();
 	}
-	
 }
