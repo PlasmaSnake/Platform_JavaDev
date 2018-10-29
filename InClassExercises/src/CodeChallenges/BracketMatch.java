@@ -30,7 +30,6 @@ public class BracketMatch {
 		return bracketList.size();
 	}
 	
-	// O(n) run time O(1) space
 	static int bracketMatchWOStack(String s) {
 		int brackets = 0;
 		int left = 0;

@@ -18,7 +18,6 @@ public class mainBank {
 		savings.deposit(100);
 		savings.deposit(200);
 		savings.deposit(300);
-		
 	}
 
 }
