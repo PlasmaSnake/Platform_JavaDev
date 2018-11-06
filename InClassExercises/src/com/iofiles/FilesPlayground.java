@@ -10,9 +10,9 @@ public class FilesPlayground {
 
 	public static void main(String[] args) throws IOException {
 		File newFile = null;
-		File playground = new File("C:\\users\\students\\documents\\playground");
-		playground.mkdir();
-		System.out.println("Playground is made succesfully? "+ playground.isDirectory());
+		
+		File playground = new File("C:\\Users\\Students\\Desktop\\playground");
+		System.out.println("Created playground directory: "+ playground.mkdir());
 
 		// directory creation of three parks
 		File parkOne = new File(playground.getAbsolutePath() + "/ParkOne");

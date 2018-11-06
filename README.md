@@ -59,6 +59,27 @@ Adv. Coding Problem II: [Pancake Sort](InClassExercises/src/CodeChallenges/Panca
 ```
 1. Object Oriented Programming I
   1a. Four Pillars of OOP - Abstraction, Encapsulation, Inheritance, Polymorphism
-
+2. Inheritance - > 'extends'
+3. Abstraction - > 'abstract class MyClass{}'
+4.
 ```
 Adv. Coding Problem III: [BracketMatch](InClassExercises/src/CodeChallenges/BracketMatch.txt) **[Solutions](InClassExercises/src/CodeChallenges/BracketMatch.java)
+
+### Week Six
+```
+1. File Input and Output
+  1a. File, Path
+  1b. BufferedReader/Writer
+  1c. FileReader/Writer
+2. Collections
+  2a. Lists/ArrayLists
+  2b. HashMaps/TreeMaps
+  2c. Streams
+Career Readiness:
+  Cover Letters and tailoring to the employer
+  Informational Interviews
+```
+### Week Seven
+```
+1. JDBC -
+```
