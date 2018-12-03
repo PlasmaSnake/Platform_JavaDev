@@ -75,11 +75,51 @@ Adv. Coding Problem III: [BracketMatch](InClassExercises/src/CodeChallenges/Brac
   2a. Lists/ArrayLists
   2b. HashMaps/TreeMaps
   2c. Streams
+3. CRUD
+  3a. Create
+  3b. Read
+  3c. Update
+  3d. Delete
 Career Readiness:
   Cover Letters and tailoring to the employer
   Informational Interviews
 ```
 ### Week Seven
 ```
-1. JDBC -
+1. JDBC 
+  1a. Oracle SQL - connection drivers
+  1b. DAOs, DAOI(nterface), Abstract Connection class
+  1c. SQL queries (DDL, DML, DQL) in java
+2. JUnit 4
+  2a. Annotations - BeforeClass, Before, Test, After, AfterClass
+  2b. JUnit set up in Eclipse
+  2c. Asserts and Class object equals() overloading
+  2d. JDBC testing
+Career Readiness:
+  Informational Interviews, cont.
+  Behavioral Interviews
+```
+### Week 8
+```
+1. Basic HTML and Client/Server relationship
+  1a. HTML elements, attributes, content, and entities
+  1b. Forms
+2. CSS
+3. JSP
+Career Readiness:
+
+```
+### Week 9 - 12
+```
+1. Spring MVC
+  1a. Converting Web Project to Maven
+  1b. Adding dependencies
+  1c. Annotations and form handling
+2. Connecting everything together (Java, JSP, Spring MVC, Oracle SQL)
+3. Working on Case Study: Comet
+
+Career Readiness:
+  Behavioral Interviews, cont.
+  STAR (Situation, Task, Action, Result) 
+  Technical Interviews
 ```

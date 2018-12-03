@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+	.code-box {
+		width: 500px;
+  		display:inline-block;
+  		word-wrap: break-word;
+  		background-color: gray;
+  		margin:auto;
+  		padding: 5px 0px;
+	}
+	span {
+		display: inline-block;
+		margin-left:10%;
+	}
+	span + span{
+		display: inline-block;
+		margin-left:10%;
+	}
+	</style>
+</head>
+<body>
+		<div class="code-box"> 
+			<p>
+				public void dispose() { <br>
+					<span>try { <br>
+						<span>if (!rs.equals(null)) if (!rs.isClosed()) rs.close();</span><br>
+						<span>if (!ps.equals(null)) if (!ps.isClosed()) ps.close();</span><br>
+						<span>if (!conn.equals(null)) if (!conn.isClosed()) conn.close();</span><br>
+					} catch (SQLException e){}
+					</span><br>
+				}
+			</p>
+		</div>
+</body>
+</html>

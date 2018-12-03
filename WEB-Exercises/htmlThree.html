@@ -1,0 +1,66 @@
+
+<html>
+	<head>
+		<style>
+		p {
+			width: 100px;
+			border:solid 1px black;
+			padding: 5px;
+			position: absolute;
+		}
+		#special{
+			font-style: bold;
+			color:red;
+			background-color:blue;
+		}
+	</style>
+	<script>
+		function scramble() {
+			var pelems = document.getElementsByTagName('P');
+			var W = window.innerWidth, H = window.innerHeight;
+			for(var i=0;i<pelems.length;++i) {
+				var x = Math.random() * (W - 120), y = 50 + Math.random() * (H - 200);
+				var p = pelems[i];
+				p.style.left = x + 'px';
+				p.style.top = y + 'px';
+			}
+		}
+	</script>
+	</head>
+	<body onload="scramble()">
+		<h1>Use one selector to make the special paragraph stand out with bold, red text and a blue background.</h1>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p id="special">I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+		<p>I seem to appear everywhere, but only one of me is special!</p>
+	</body>
+</html>
